@@ -1,0 +1,3 @@
+C:/Users/Ariana/CLionProjects/Recursividad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ariana/CLionProjects/Recursividad/cmake-build-debug/CMakeFiles/Recursividad.dir
+C:/Users/Ariana/CLionProjects/Recursividad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
